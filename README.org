@@ -1,0 +1,15 @@
+#+TITLE: Readme
+
+
+* About
+
+Some scripts for determining sample size/ precision/ power for single sample estimates and tests.
+
+
+* One sample proportion test
+
+This script uses simulation to estimate the exact power for rejecting a specific null hypothesis
+
+* One smaple proportion (margin of error)
+
+This script determins the margin of error for an estimate of a proportion from a given sample size and assumed population proportion
